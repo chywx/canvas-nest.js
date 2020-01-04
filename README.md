@@ -1,5 +1,7 @@
 # canvas-nest.js
 
+> 页面添加效果，博客园记录
+
 > A nest background of website draw on canvas. [中文 Readme 帮助文档](README-zh.md).
 
 [![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://git.hust.cc/canvas-nest.js)
